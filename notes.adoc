@@ -1,7 +1,7 @@
 
-Core Spring 5.0 Certification Study Guide JANUARY 2018
+# Core Spring 5.0 Certification Study Guide 
 
-
+JANUARY 2018
 
 ## Overview
 
