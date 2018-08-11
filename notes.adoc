@@ -47,7 +47,30 @@ be taken from a location of your choosing anywhere in the world provided you can
 the basic system and test environment requirements and have a valid form of photo 
 identification.
 
+## EXAM TOPICS
+
+The Spring Professional certification exam is designed to test and validate your understanding of and familiarity with:
+
+* Container basics
+* Aspect Oriented Programming (AOP)
+* Data access and transactions
+* Spring model-view-controller (MVC).
+
+Topics likely to be included on this exam include:
+
+* Container (28%)
+* AOP (14%)
+* JDBC (4%)
+* Transactions (10%) 
+* MVC (10%)
+* Security (6%)
+* REST (6%)
+* JPA Spring Data (4%) 
+* Boot (14%)
+* Testing (4%).
+
 ## The Exam
+
 The exam itself is a computer-based exam. The exam software first gives you some general instructions: how to navigate, how to mark a question, and so forth - please read it carefully.
 
 Once you have agreed that you want to start, you have 90 minutes to answer 50 multiple-choice questions. You must answer 38 questions correctly (76%) in order to pass the exam. 
